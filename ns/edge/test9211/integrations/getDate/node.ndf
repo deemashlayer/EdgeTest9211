@@ -46,9 +46,9 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">jasprit</value>
-    <value name="lastModifiedDate">1695311711089</value>
+    <value name="lastModifiedDate">1695313469659</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="id">f274d1be8be44d4f93f4231dfae8033c</value>
+      <value name="id">021b5af83fae4f55b72ef53686c47946</value>
       <value name="group">default</value>
       <value name="name">test</value>
     </record>
