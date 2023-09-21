@@ -1,6 +1,15 @@
 version: "1.0"
 info:
   model: int-scaffold
+services:
+- serviceName: edge.test9211.integrations:getDate
+  packages:
+  - name: EdgeTest9211
+    version: "1.0"
+- serviceName: pub.date:getCurrentDate
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.544
 packages:
 - name: EdgeTest9211
   gitServerName: dima

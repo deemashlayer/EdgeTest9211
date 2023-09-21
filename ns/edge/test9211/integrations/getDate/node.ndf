@@ -45,13 +45,12 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">jasprit</value>
-    <value name="createdDate">1695311437660</value>
-    <value name="lastModifiedDate">1695311437660</value>
+    <value name="lastModifiedBy">jasprit</value>
+    <value name="lastModifiedDate">1695311504674</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="id">f035d81f8a104dd1a6b6c9c8b6482ecf</value>
-      <null name="group"/>
-      <value name="name">E2EM_EdgeRuntime</value>
+      <value name="id">e5fdfe05997f47278b2e0de00c7153e7</value>
+      <value name="group">default</value>
+      <value name="name">adpsept21</value>
     </record>
     <value name="displayName">getDate</value>
     <value name="description"></value>
