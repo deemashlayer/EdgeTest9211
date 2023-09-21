@@ -46,11 +46,11 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">jasprit</value>
-    <value name="lastModifiedDate">1695311504674</value>
+    <value name="lastModifiedDate">1695311711089</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="id">e5fdfe05997f47278b2e0de00c7153e7</value>
+      <value name="id">f274d1be8be44d4f93f4231dfae8033c</value>
       <value name="group">default</value>
-      <value name="name">adpsept21</value>
+      <value name="name">test</value>
     </record>
     <value name="displayName">getDate</value>
     <value name="description"></value>
@@ -68,6 +68,7 @@
           <value name="serviceName">pub.date:getCurrentDate</value>
           <value name="transformerSupport">true</value>
         </record>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
       </record>
     </record>
   </record>
